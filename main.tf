@@ -7,7 +7,7 @@ bucket = "my-s3-bucket"
   control_object_ownership = true
   object_ownership         = "ObjectWriter"
 
-  versioning = {
+versioning = {
     enabled = true
   }
 }
